@@ -1,0 +1,28 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App/> renders 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <img
+      alt="logo"
+      className="App-logo"
+      src="logo.svg"
+    />
+    <p>
+      Let's Hire Tom Walker He's A Swell Guy!
+    </p>
+    <a
+      className="App-link"
+      href="https://github.com/Walker-TW"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      Check Out My Projects
+    </a>
+  </header>
+</div>
+`;
