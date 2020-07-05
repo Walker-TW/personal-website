@@ -13,7 +13,7 @@ exports[`<App/> renders 1`] = `
       src="logo.svg"
     />
     <p>
-      Let's Hire Tom Walker He's A Swell Guy!
+      Let's Hire Thomas Walker He's A Swell Guy!
     </p>
     <a
       className="App-link"
